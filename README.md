@@ -27,4 +27,8 @@ Meme Bot is a fun and engaging Discord bot designed to share random memes with u
 Once the bot is running and added to your Discord server, simply type $meme in any text channel where the bot has permission to read and send messages. The bot will respond with a random meme.
 
 ## Conclusion
+
 Meme Bot is a delightful addition to any Discord server, offering a simple and effective way to share humor and engage with community members. Its straightforward setup and secure design make it an excellent project for both beginners and experienced developers in the Discord bot development space.
+
+Join our Discord server [Invite Link](https://discord.com/invite/QGYmvyxf)
+
